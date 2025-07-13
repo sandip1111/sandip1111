@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sandip1111&label=Profile%20views&color=0e75b6&style=flat" alt="sandip1111" /> </p>
 
-- 🌱 I’m currently learning **B.Tech Information Technology**
+- 🌱 I’m currently stuyding **B.Tech Information Technology**
 
 - 📫 How to reach me **shilsandip07@gmail.com**
 
